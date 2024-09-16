@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../dev/esp32-cam"
+		},
+		{
+			"name": "esp32-cam-bluetooth",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
